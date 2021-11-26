@@ -1,2 +1,3 @@
 # test.OK
-katou,okuboチーム
+katou,okuboチーム  
+涼太君大好き
